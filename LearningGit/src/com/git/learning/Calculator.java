@@ -26,4 +26,7 @@ public class Calculator {
 	}
 		return result;
 }
+	public void Encapsulation() {
+		
+	}
 }
